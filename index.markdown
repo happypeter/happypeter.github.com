@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<br /><br /><center><h1>Peter's Corner</h1></center>
-
-
-<table width="540" align="center"><tr><td>
+<h1>Peter's Corner</h1>
 
 <br />
 
@@ -20,7 +17,6 @@ Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to pr
 <li>Check &nbsp;<a href="http://c2.com/cgi/wiki?PeterWang">Me on Wikiwikiweb</a></li>
 
 <li>Linux info for beginners &nbsp;<a href="http://www.linfo.org/">LINFO</a></li>
-
 
 </ul>
 
@@ -46,7 +42,4 @@ happypeter1983 at gmail.com
 </p>
 </blockquote>
 
-</td></tr></table>
 
-
-</body></html>
