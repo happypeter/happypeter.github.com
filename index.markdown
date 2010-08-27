@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>Peter's Corner</h1>
+<h1 style="text-align:center">Peter's Corner</h1>
 
 <br />
 
