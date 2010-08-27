@@ -18,9 +18,13 @@ programming as my job, I would like to quote his words:
     you find it, and like any great relationship it just gets better and better as
     the years roll on. So keep looking. Don't settle.
 
-Having dreams is nice, but I think that is not enough for us, we still need love and care and friendship. You know what? I still remember all these joyful days we had in Shijiazhang, Shanghai and Beijing. Do not remember we once were together fighting for our dreams.
+Having dreams is nice, but I think that is not enough for us, we still need
+love and care and friendship. You know what? I still remember all these joyful
+days we had in Shijiazhang, Shanghai and Beijing. Do not forget we were once 
+together fighting for our dreams.
 
 
 Truthfully
+
 Peter
 
