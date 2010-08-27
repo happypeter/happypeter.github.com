@@ -31,6 +31,12 @@ Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to pr
 
 </ul>
 
+<p><br /><b>My Blog:</b></p>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 <p><br /><b>Site Contents:</b></p>
 
 <blockquote><p>
