@@ -26,13 +26,6 @@ Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to pr
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-<p><br /><b>Site Contents:</b></p>
-
-<blockquote><p>
-
-<a href="recent_changes.html">Recent Changes</a> &nbsp; 
-<a href="site_map.html">Site Map</a>
-</blockquote></p>
 
 <p><br /><b>Contact Information:</b></p>
 
