@@ -11,16 +11,6 @@ Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to pr
 </p>
 
 
-<p><br /><b>My Favorites:</b></p>
-<ul>
-
-
-<li>Check &nbsp;<a href="http://c2.com/cgi/wiki?PeterWang">Me on Wikiwikiweb</a></li>
-
-<li>Linux info for beginners &nbsp;<a href="http://www.linfo.org/">LINFO</a></li>
-
-</ul>
-
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
     {% for post in site.posts %}
@@ -28,6 +18,15 @@ Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to pr
     {% endfor %}
   </ul>
 
+<p><br /><b>Find me on:</b></p>
+
+<ul>
+
+<li><a href="http://c2.com/cgi/wiki?PeterWang">Wikiwikiweb</a></li>
+
+<li><a href="http://github.com/happypeter/">Github</a></li>
+
+</ul>
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
