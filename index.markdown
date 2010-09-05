@@ -4,11 +4,8 @@ layout: default
 <br />
 <h1 style="text-align:center">Peter's Corner</h1>
 
-<br />
 
-<p>
-Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about me and [what I do](work/).
-</p>
+Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about me and [what I do](/work).
 
 
 <p><br /><b>My Blog:</b></p>
