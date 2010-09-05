@@ -1,16 +1,6 @@
 ---
 layout: post
-title: Research
 ---
-
-Research
-========
-[Git SCM][git] 
-
-[git]: http://git-scm.com
-
-[Blog](/blog/)
-====
 
 
 I am a tech geek, and programming is what I do everyday. It is work and play
