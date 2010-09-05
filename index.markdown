@@ -7,7 +7,7 @@ layout: default
 <br />
 
 <p>
-Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about <a href="bio.html">me</a> and  <a href="what_i_do.html">what I do</a>.
+Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about me and [what I do](work/).
 </p>
 
 
