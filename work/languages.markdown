@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Languages
 ---
 
 ## C
