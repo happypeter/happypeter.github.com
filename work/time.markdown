@@ -1,65 +1,50 @@
+---
+layout: post
+---
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-<html xmlns= "http://www.w3.org/1999/xhtml">
-<head> 
+### 1999
 
-<link rel="stylesheet" type="text/css" href="./css/peter.css" />
+My friend took me into a internet bar, and I had my first day with Internet
+and computer.
 
+### 2001
 
-<title>Peter Home Page</title></head>
+was taught on Computer basics(MS Windows daily usage) and later had a course
+on C
 
-<body bgcolor="#ffffff">
-
-<a href="index.html">HOME</a>
-
-<br /><center><h1> What I Did All These Years </h1></center><br />
-
-
-<br />
-
-<h3>1999</h3>
-
-My friend took me into a internet bar, and I had my first day with Internet and
-computer.
-
-<h3>2001</h3>
-
-was taught on Computer basics(MS Windows daily usage) and later had a course on C
-
-<h3>2002</h3>
+### 2002
 
 bought my first pc, a lenovo(at that time called legend) desktop, and during
 the shopping I saw a Founder desktop with Redflag linux installed, people told
 me that operating system in named Unix, and nobody knew how to use it...
 
-<h3>2005</h3>
+### 2005
 
 photo shop, movie maker, gif generator, music convertor,... all in MS windows.
 
-<h3>2006</h3> 
+### 2006
 
 this was the year I started to use C again, some simple single thread programs
 for 80C51 platform, did not achieve much and like much
 
-<h3>2007</h3>  
-<p>
+### 2007
+
 Bad, bad, I can not remember how Linux stepped into my life, I should rememer
 my first day with Linux, since it was really a important day in my life. But
 it was basically like this:
-</p>
-<p>
+
 I was at that time a graduate student in NCEPU, our lab was trying to develop
 a data acquisition instrument for power stations. That's why I did some 80C51
 hacking the earlier year, but later people found out it will be nice that we
 can have a operating system running on our device, so that we can add more
 smarts easily to it. So we switched from the 16bit 80C51 to ARM(advanced RISC
 Machine) Chip, and chose WinCE as the OS.
-</p>
-<p>
-Linux was brought to me by ARM. Learning how to using ARM, I found many
-people actually using Linux on ARM chip. 
-</p>
-<h3>2008</h3>
+
+Linux was brought to me by ARM. Learning how to using ARM, I found many people
+actually using Linux on ARM chip.
+
+### 2008
 
 I had a short time work as a student researcher in Lenovo Ltd. It sucked.
-</html>
+
+
