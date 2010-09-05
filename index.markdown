@@ -3,7 +3,7 @@ layout: default
 ---
 <br />
 <h1 style="text-align:center">Peter's Corner</h1>
-
+<br />
 
 Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about me and [what I do](/work).
 
