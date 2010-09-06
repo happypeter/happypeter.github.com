@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Do
+title: Work
 ---
 
 
@@ -8,8 +8,11 @@ I am a tech geek, and programming is what I do everyday. It is work and play
 together, science and art together. Creativity rocks! What a great fun to play
 god in the world of the matrix.
 
-Tech Experience
-====
+### Projects
+
+- [GitBeijing](http://happypeter.github.com/GitBeijing/)
+
+### Tech Experience
 
 Categorized by 
 
