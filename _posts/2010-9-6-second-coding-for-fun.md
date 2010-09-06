@@ -13,9 +13,9 @@ Since I was building my own website and blog these days, I wanted those from my 
 <http://www.vincnd.com/> is nice one.
 
 Late in that afternoon, a big guy from Canonical gave a talk on Arm Ubuntu, I
-wish stable device be available soon, that way I can do not need to learn a
-new platform like Andriod or IOS, most my desktop ubuntu conf skills can be
+wish stable device be available soon, that way I do not need to learn a
+new platform like _Andriod_ or _iOS_, most my desktop ubuntu conf skills can be
 used on my Handheld device.
 
 Good friends, cozy place, meaningful conversations. Interested? Head for
-Beijinglug.org, find out when is the nice one and feel free to join us.
+_Beijinglug.org_, find out when is the nice one and feel free to join us.
