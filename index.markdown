@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <br />
 <h1 style="text-align:center">Peter's Corner</h1>
