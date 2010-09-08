@@ -29,7 +29,7 @@ logos of apple and ubuntu are good.
 ### Details
 
 You have not add your logo to your `<head><title>`, that is detail of cause,
-but _Demo Lives In Details_, the absence of this will be considered
+but _Devil Lives In Details_, the absence of this will be considered
 unprofessional in the picky eyes of your potential customers.
 
 Some of your pics have dark bar on the right, that does not look good, better
