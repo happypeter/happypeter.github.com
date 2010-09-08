@@ -44,8 +44,8 @@ Nice to have a English Version of your stuff, I believe.
 Be it a forum or a comment area, have some place for people to comment on your ideas.
 [Github](http://www.github.com) founder once said on his own
 [site](http://tom.preston-werner.com/), (I forget which post these words are
-on), that he had long been posting his ideas on web, and the feedbacks turned
-out to be invaluable.
+on), that he had long been in love of posting his ideas on web, and the
+feedbacks turned out to be invaluable.
 
 ### Free Trial
 
