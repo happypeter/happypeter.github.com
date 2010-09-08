@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 My friend,
 
 I am writing to comment on your <http://kanasshop.com/>. You are doing quite well
