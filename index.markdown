@@ -3,8 +3,9 @@ layout: post
 title: Peter's Corner
 ---
 
-Welcome, I am Peter Wang, a open source enthusiast. This site is dedicated to providing information about me and [what I do](/work).
+Welcome, I am Peter Wang, a [Open Source][oss] enthusiast. This site is dedicated to providing information about me and [what I do](/work).
 
+[oss]:http://en.wikipedia.org/wiki/Open_source
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
