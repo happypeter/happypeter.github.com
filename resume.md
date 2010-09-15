@@ -65,7 +65,7 @@ changed my life. I spent most of my time on two things:
 
 __2009.3~2009.12:__ [Asianux Ltd][asianux]
 
-Maintainer of AXTU and was responsible for writing a authentication plugin for
+Maintainer of [AXTU][axtu] and was responsible for writing a authentication plugin for
 [YUM][yum], in order to use it in Asianux4.0.
 
 __2008.7 ~ present:__ [Beijing Linux User Group][blug]
@@ -116,18 +116,13 @@ functions. It is a SF.net hosted open source project. I am the founder
 and the administrator of Tata, working with developers from many
 countries. 
 
-__2008.8 ~ 2008.9:__ Nokia N810
+__2008.8 ~ 2008.9:__ Meego and Andriod
 
 As a student researcher in Lenovo, I  estimated the Nokia
 N810 development platform to figure out whether it is suitable for
 Lenovo's next generation smart phone development. Thus I installed
 maemo on my own machine, and tried to run some Helloworld examples. 
 
-__2008.12 ~ 2009.1:__ Porting Qt4.4.3 to S3C2410 Platform
-
-Formerly Tinylion user app part was written under a older version of
-Qt/embedded, but now I am able to port the latest version of
-Qt/embedded to my own hardware platform.  
 
 [asianux]: http://www.asianux.com
 [plc]: http://en.wikipedia.org/wiki/Programmable_logic_controller
