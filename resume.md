@@ -45,17 +45,17 @@ During my under graduate study, my major was [_Electrical
 Engineering_][electricalengineering]. To do [motor contol][motor] and
 [automation][automation], we had a course on _C languange_ (2002) and later
 learned two assembles, one for [MSC-51][mcs51](2004), the other
-[8086][8086](2008) I also learned [PLC][plc] programming(2003).  During my
+[8086][8086](2004) I also learned [PLC][plc] programming(2003).  During my
 undergraduate study, I only concerned about single thread programming, stay
-close to the hardware. But this changed when I start my postgraduate lift in:
+close to the hardware. But this changed when I started my postgraduate life in:
 
 __2006.9~2009.3:__ North China Electric Power University
 
 I did reserch on developing a _Vibration data acquisition instrumant_, we
-start with _80c51F_, linking against the C lib that came with it. That did
+start with _80C51F_, linking against the C lib that came with it. That did
 not satisfied anybody, so we switched to 32-bit ARM chip S3C2410, then we
-wanted  Multithreading and GUI support, we need a real kernel to
-settle the chaos, I picked Linux(while some guys chose WinCE), and that
+wanted  Multithreading and GUI support, we needed a real kernel to
+settle the chaos, I picked up Linux(while some guys chose WinCE), and that
 changed my life. I spent most of my time on two things:
 
  - Linux driver for ARM(s3c24x0) chips.  
@@ -65,9 +65,8 @@ changed my life. I spent most of my time on two things:
 
 __2009.3~2009.12:__ [Asianux Ltd][asianux]
 
-System Updaters Based on rpm, (AXTU and YUM), chief maintainer of AXTU
-and was responsible for writing a authentication plugin for YUM, in
-order to implement it in Asianux4.0.
+Maintainer of AXTU and was responsible for writing a authentication plugin for
+[YUM][yum], in order to use it in Asianux4.0.
 
 __2008.7 ~ present:__ [Beijing Linux User Group][blug]
 
@@ -143,3 +142,4 @@ Qt/embedded to my own hardware platform.
 [8086]:http://en.wikipedia.org/wiki/Intel_8086
 [motor]:http://en.wikipedia.org/wiki/Electric_motor
 [axtu]:http://happypeter.github.com/axtu/
+[yum]:http://yum.baseurl.org/
