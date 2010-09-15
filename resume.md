@@ -1,3 +1,7 @@
+---
+layout: post
+title: Peter Resume
+--- 
 <img src="./images/peter.jpg" alt="Peter Face" />
 # Personal Info
 
