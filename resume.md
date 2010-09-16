@@ -3,7 +3,8 @@ layout: post
 title: Peter Resume
 --- 
 <img src="./images/peter.jpg" alt="Peter Face" />
-# Personal Info
+
+## Personal Info
 
 **Name**: Peter Wang
 
@@ -19,15 +20,13 @@ title: Peter Resume
 
 **HomePage:** <http://happypeter.github.com>
 
-### Sentence Bio
+## Sentence Bio
 
 Peter Wang is a [Open Source Software][oss] developer. 
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 
-## Skill Summary
-
-### Programming Languages
+## [Programming Languages][languanges]
 
  - C
  - C++
@@ -37,7 +36,6 @@ Peter Wang is a [Open Source Software][oss] developer.
  - bash
 
 ## Education
-
 
 __2001.9~2005.7:__ Hebei University of Science & Technology
 
@@ -126,3 +124,4 @@ maemo on my own machine, and tried to run some Helloworld examples.
 [yum]:http://yum.baseurl.org/
 [Tinylion]:http://happypeter.github.com/tinylion
 [tata]:http://happypeter.github.com/tata/
+[languanges]:http://happypeter.github.com/work/languages.html
