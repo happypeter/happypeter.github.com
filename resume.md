@@ -102,6 +102,7 @@ time before I joined the development. What I added was:
 __2010.1 ~ present:__ [Gitbro][gitbro]
 
 My deep love for [git-scm][git-scm] result in this project. Building GUI front-end with Qt, scripting my own work flow, and posting what I've learned at [GitBeijing][gitbeijing]. 
+
 __2008.8 ~ 2008.9:__ [Hen][hen]
 
 My tiny projects of interest projects are safe here as "eggs" :-)
@@ -134,4 +135,3 @@ My tiny projects of interest projects are safe here as "eggs" :-)
 [hen]:http://happypeter.github.com/hen/
 [Gitbro]:http://happypeter.github.com/gitbro
 [git-scm]:http://git-scm.com
-[GitBeijing]::http://happypeter.github.com/gitbeijing
