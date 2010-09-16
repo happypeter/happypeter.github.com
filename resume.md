@@ -102,7 +102,11 @@ time before I joined the development. What I added was:
 __2008.8 ~ 2008.9:__ [Hen][hen]
 
 My tiny projects of interest projects are safe here as "eggs" :-)
-YUM plugin, Meego and Andriod Network Manager 
+
+ - YUM plugin, 
+ - Meego and Andriod 
+ - Network Manager 
+ - MoinToMuse convertor(writen in python)
 
 
 [asianux]: http://www.asianux.com
