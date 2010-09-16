@@ -91,7 +91,7 @@ time before I joined the development. What I added was:
  - epoch handling
  - obsolete tag handling
 
-__2006.12~present:__ Tinylion
+__2006.12~2008.11:__ [Tinylion][tinylion]
 
 I am the founder of this project.
 contains open source hardware as well as software. The software
@@ -138,3 +138,4 @@ maemo on my own machine, and tried to run some Helloworld examples.
 [motor]:http://en.wikipedia.org/wiki/Electric_motor
 [axtu]:http://happypeter.github.com/axtu/
 [yum]:http://yum.baseurl.org/
+[Tinylion]:http://happypeter.github.com/tinylion
