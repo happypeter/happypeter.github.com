@@ -8,8 +8,6 @@ title: Peter Resume
 
 **Name**: Peter Wang
 
-**Birth Date:** Jan 2nd 1983
-
 **Nationality:** China
 
 **Address:** Beijing, P.R.China
@@ -24,8 +22,6 @@ title: Peter Resume
 
 Peter Wang is a [Open Source Software][oss] developer. 
 
-[oss]:http://en.wikipedia.org/wiki/Open_source
-
 ## Languages 
 ([click to see details][languanges])
 
@@ -35,9 +31,10 @@ Peter Wang is a [Open Source Software][oss] developer.
  - PHP
  - elisp
  - bash
+ - make
+ - m4, awk, sed ...
 
 ## Education 
-
 ([click to see how I wasted my years][time])
 
 __2001.9~2005.7:__ Hebei University of Science & Technology
@@ -46,18 +43,18 @@ During my under graduate study, my major was [_Electrical
 Engineering_][electricalengineering]. To do [motor contol][motor] and
 [automation][automation], we had a course on _C languange_ (2002) and later
 learned two assembles, one for [MSC-51][mcs51](2004), the other
-[8086][8086](2004) I also learned [PLC][plc] programming(2003).  During my
-undergraduate study, I only concerned about single thread programming, stay
-close to the hardware. But this changed when I started my postgraduate life in:
+[8086][8086](2004) I also learned [PLC][plc] programming(2003). 
+Single thread programming, close to the hardware. But this changed when I
+started my postgraduate life in:
 
 __2006.9~2009.3:__ North China Electric Power University
 
-I did reserch on developing a _Vibration data acquisition instrumant_, we
-started with _80C51F_, linking against the C lib that came with it. That did
-not satisfied anybody, so we switched to 32-bit ARM chip S3C2410, then we
-wanted  Multithreading and GUI support, we needed a real kernel to
-settle the chaos, I picked up Linux(while some guys chose WinCE), and that
-changed my life. I spent most of my time on two things:
+I did reserch on developing  _Vibration data acquisition instruments_ to be
+used in power plants, we started with _80C51F_, linking against the C lib that
+came with it. That did not satisfied anybody, so we switched to 32-bit ARM
+chip S3C2410, then we wanted multithreading and GUI support, we needed a real
+kernel to settle the chaos, I picked up Linux(while some guys chose WinCE),
+and that changed my life. I spent most of my time on two things:
 
  - Linux driver for ARM(s3c24x0) chips.  
  - UI implemented with [Qt](http://qt.nokia.com/)
@@ -66,10 +63,10 @@ changed my life. I spent most of my time on two things:
 
 __2009.3~2009.12:__ [Asianux Ltd][asianux]
 
-Maintainer of [AXTU][axtu] and was responsible for writing a authentication plugin for
+Maintainer of [AXTU][axtu], and later wrote a authentication plugin for
 [YUM][yum], in order to use it in Asianux4.0.
 
-__2008.7 ~ present:__ [Beijing Linux User Group][blug]
+__2008.7~present:__ [Beijing Linux User Group][blug]
 
  - manager of [Embedded Linux Group][elg]
  - manager of [GitBeijing][gitbeijing]
@@ -79,16 +76,15 @@ __2008.7 ~ present:__ [Beijing Linux User Group][blug]
 
 __2006.12~2008.11:__ [Tinylion][tinylion]
 
-I am the founder of this project.
-contains open source hardware as well as software. The software
-contains drivers and apps.
+I am the founder of this project. Open source hardware &
+software. Drivers and apps in C.
 
 
-__2008.12 ~ present:__ [Tata][tata]
+__2008.12~present:__ [Tata][tata]
 
 Tata is a Qt project aiming at developing a data analysis program for
 scientific use. It contains wave form display and other data analysis
-functions. 
+functions. Initially designed to work on embedded platform as part of Tinylion.
 
 __2009.3~2009.10:__ [AXTU][axtu]
 
@@ -99,23 +95,24 @@ time before I joined the development. What I added was:
  - epoch handling
  - obsolete tag handling
 
-__2010.1 ~ present:__ [Gitbro][gitbro]
+__2010.1~present:__ [Gitbro][gitbro]
 
-My deep love for [git-scm][git-scm] result in this project. Building GUI front-end with Qt, scripting my own work flow, and posting what I've learned at [GitBeijing][gitbeijing]. 
+My deep love for [git-scm][git-scm] resulted in this project. Building GUI front-end with Qt, scripting my own work flow, and posting what I've learned at [GitBeijing][gitbeijing]. 
 
-__2008.8 ~ 2008.9:__ [Hen][hen]
+__2008.8~2008.9:__ [Hen][hen]
 
 My tiny projects of interest projects are safe here as "eggs" :-)
 
- - YUM plugin, 
+ - YUM plugin 
  - Meego and Andriod 
  - Network Manager 
  - MoinToMuse convertor(writen in python)
  - and [more][hen]
 
-Go to [Github][github-peter] to view all my projects
+__Go to__ [Github][github-peter] to view all my projects
 
 [asianux]: http://www.asianux.com
+[oss]:http://en.wikipedia.org/wiki/Open_source
 [plc]: http://en.wikipedia.org/wiki/Programmable_logic_controller
 [blug]: http://www.beijinglug.org/en/index.php
 [lenovo]: http://www.lenovo.com/us/en/#ss
