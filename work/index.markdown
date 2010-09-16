@@ -10,7 +10,7 @@ god in the world of the matrix.
 
 ### Projects
 
-- [GitBeijing](http://happypeter.github.com/GitBeijing/)
+__Go to__ [Github][github-peter] to view all my projects
 
 ### Tech Experience
 
@@ -18,3 +18,5 @@ Categorized by
 
 - [time](time.html)   
 - [languages](languages.html)
+        
+[github-peter]:http://github.com/happypeter
