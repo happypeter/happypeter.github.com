@@ -51,10 +51,10 @@ __2006.9~2009.3:__ North China Electric Power University
 
 I did reserch on developing  _Vibration data acquisition instruments_ to be
 used in power plants, we started with _80C51F_, linking against the C lib that
-came with it. That did not satisfied anybody, so we switched to 32-bit ARM
-chip S3C2410, then we wanted multithreading and GUI support, we needed a real
-kernel to settle the chaos, I picked up Linux(while some guys chose WinCE),
-and that changed my life. I spent most of my time on two things:
+came with it. Later, we switched to 32-bit ARM chip S3C2410. For the sake of 
+multithreading and GUI support, we needed a real kernel to settle the chaos, I
+picked up Linux(while some guys chose WinCE), and that changed my life. I
+spent most of my time on two things:
 
  - Linux driver for ARM(s3c24x0) chips.  
  - UI implemented with [Qt](http://qt.nokia.com/)
