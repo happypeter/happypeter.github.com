@@ -53,7 +53,7 @@ close to the hardware. But this changed when I started my postgraduate life in:
 __2006.9~2009.3:__ North China Electric Power University
 
 I did reserch on developing a _Vibration data acquisition instrumant_, we
-start with _80C51F_, linking against the C lib that came with it. That did
+started with _80C51F_, linking against the C lib that came with it. That did
 not satisfied anybody, so we switched to 32-bit ARM chip S3C2410, then we
 wanted  Multithreading and GUI support, we needed a real kernel to
 settle the chaos, I picked up Linux(while some guys chose WinCE), and that
@@ -99,12 +99,10 @@ time before I joined the development. What I added was:
  - epoch handling
  - obsolete tag handling
 
-__2008.8 ~ 2008.9:__ Meego and Andriod
+__2008.8 ~ 2008.9:__ [Hen][hen]
 
-As a student researcher in Lenovo, I  estimated the Nokia
-N810 development platform to figure out whether it is suitable for
-Lenovo's next generation smart phone development. Thus I installed
-maemo on my own machine, and tried to run some Helloworld examples. 
+My tiny projects of interest projects are safe here as "eggs" :-)
+YUM plugin, Meego and Andriod Network Manager 
 
 
 [asianux]: http://www.asianux.com
@@ -125,3 +123,4 @@ maemo on my own machine, and tried to run some Helloworld examples.
 [tata]:http://happypeter.github.com/tata/
 [languanges]:http://happypeter.github.com/work/languages.html
 [time]:http://happypeter.github.com/work/time.html
+[hen]:http://happypeter.github.com/hen/
