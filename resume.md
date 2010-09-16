@@ -113,6 +113,7 @@ My tiny projects of interest projects are safe here as "eggs" :-)
  - MoinToMuse convertor(writen in python)
  - and [more][hen]
 
+Go to [Github][github-peter] to view all my projects
 
 [asianux]: http://www.asianux.com
 [plc]: http://en.wikipedia.org/wiki/Programmable_logic_controller
@@ -135,3 +136,4 @@ My tiny projects of interest projects are safe here as "eggs" :-)
 [hen]:http://happypeter.github.com/hen/
 [Gitbro]:http://happypeter.github.com/gitbro
 [git-scm]:http://git-scm.com
+[github-peter]:http://github.com/happypeter
