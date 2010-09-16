@@ -27,7 +27,7 @@ Peter Wang is a [Open Source Software][oss] developer.
 [oss]:http://en.wikipedia.org/wiki/Open_source
 
 ## Languages 
-[click to see details][languanges]
+([click to see details][languanges])
 
  - C
  - C++
@@ -38,7 +38,7 @@ Peter Wang is a [Open Source Software][oss] developer.
 
 ## Education 
 
-[click to see how I wasted my years][time]
+([click to see how I wasted my years][time])
 
 __2001.9~2005.7:__ Hebei University of Science & Technology
 
