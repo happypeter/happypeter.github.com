@@ -48,4 +48,8 @@ actually using Linux on ARM chip.
 
 I had a short time work as a student researcher in Lenovo Ltd. It sucked.
 
+__2008.8 ~ 2008.9:__ [Lenovo Co.Ltd][lenovo]
+
+I participated in the smart phone project _Cixtone_ mainly worked on the
+_Officeviewer_ part developed with Qt, as a tester. 
 
