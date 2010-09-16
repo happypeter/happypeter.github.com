@@ -81,29 +81,26 @@ _Officeviewer_ part developed with Qt, as a tester.
 
 ## Project Summary
 
+__2006.12~2008.11:__ [Tinylion][tinylion]
+
+I am the founder of this project.
+contains open source hardware as well as software. The software
+contains drivers and apps.
+
 __2009.3~2009.10:__ [AXTU][axtu]
 
-I worked in Asianux as _AXTU_ developer, and for a few month as the chief
-maintainer. AXTU is a Linux system updater, based on RPM, it has similiar work
+AXTU is a Linux system updater, based on RPM, it has similiar work
 flow as YUM, but implemented in C++, it was created by Hansoft engineers, long
 time before I joined the development. What I added was:
  
  - epoch handling
  - obsolete tag handling
 
-__2006.12~2008.11:__ [Tinylion][tinylion]
-
-I am the founder of this project.
-contains open source hardware as well as software. The software
-contains driver and apps.
-
 __2008.12 ~ present:__ [Tata][tata]
 
 Tata is a Qt project aiming at developing a data analysis program for
 scientific use. It contains wave form display and other data analysis
-functions. It is a SF.net hosted open source project. I am the founder
-and the administrator of Tata, working with developers from many
-countries. 
+functions. It is a SF.net hosted open source project.
 
 __2008.8 ~ 2008.9:__ Meego and Andriod
 
