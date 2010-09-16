@@ -26,7 +26,7 @@ Peter Wang is a [Open Source Software][oss] developer.
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 
-## [Programming Languages][languanges]
+## Languages [see details][languanges]
 
  - C
  - C++
@@ -35,7 +35,7 @@ Peter Wang is a [Open Source Software][oss] developer.
  - elisp
  - bash
 
-## Education
+## Education [see how I waste my years][time]
 
 __2001.9~2005.7:__ Hebei University of Science & Technology
 
@@ -125,3 +125,4 @@ maemo on my own machine, and tried to run some Helloworld examples.
 [Tinylion]:http://happypeter.github.com/tinylion
 [tata]:http://happypeter.github.com/tata/
 [languanges]:http://happypeter.github.com/work/languages.html
+[time]:http://happypeter.github.com/work/time.html
