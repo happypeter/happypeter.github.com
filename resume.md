@@ -96,19 +96,8 @@ __2006.12~2008.11:__ [Tinylion][tinylion]
 I am the founder of this project.
 contains open source hardware as well as software. The software
 contains driver and apps.
- 
-__2008.8 ~ 2008.12:__ Linux Device Driver (tinylion)
-The driver is designed to control Sensor->ADC->SPI It is finally
-compiled into a kernel module spi.ko, and loaded dynamically. 
 
-__2008.8 ~ 2008.9:__ Hardware Design and Implementation (tinylion)
-The hardware platform is based on S3C2410 ARM chip. I bought a 6 layer
-core board and designed a 2-layer extented board for it. 
-
-__2008.8 ~ 2008.9:__ User Application Design and Implementation (tinylion)
-Tata is the PC version of this part.
-
-__2008.12 ~ present:__ Tata
+__2008.12 ~ present:__ [Tata][tata]
 
 Tata is a Qt project aiming at developing a data analysis program for
 scientific use. It contains wave form display and other data analysis
@@ -139,3 +128,4 @@ maemo on my own machine, and tried to run some Helloworld examples.
 [axtu]:http://happypeter.github.com/axtu/
 [yum]:http://yum.baseurl.org/
 [Tinylion]:http://happypeter.github.com/tinylion
+[tata]:http://happypeter.github.com/tata/
