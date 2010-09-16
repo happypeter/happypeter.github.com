@@ -17,7 +17,7 @@ _2007:_ Picked C up agiain, for ARM development.
 
 _2008:_ After working on kernel space for nearly a year, and wrote some
 simple drivers for S3C2410 chip, I want a gui program in order to manipulate
-the driver with the touch screen of my handhold device. Qt was at that time
+the driver with the touch screen of my handheld device. Qt was at that time
 the only thing I knew, so I tried some Qt code, and soon got confused by all
 the differences that C++ brought over C, that drove me to start my journey
 with C++.
