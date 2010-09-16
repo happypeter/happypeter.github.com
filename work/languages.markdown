@@ -63,11 +63,11 @@ since I always tought Java as a scripting langauge is not fast enough for
 embedded use. But Google just did it, and solve some problems by maintaining
 their own branch of Java Libs.
 
-_2010.9:_run helloWorld on my andriod cellphone, eclipse+ADT 
+_2010.9:_ run _helloWorld_ on my andriod cellphone, eclipse+ADT 
 
 ## elisp
 
 
 _2009:_  Used Emacs for 3 months, and thus learned a little bit of this, they
-do have great documents on gnu.org
+do have great documents at gnu.org
 
