@@ -8,27 +8,27 @@ I am writing to comment on your <http://kanasshop.com/>. You are doing quite wel
 I think by making this site pretty. But here I want to give my opinion on how
 we can add more beauty and reduce its unnecessary complexity. 
 
-I take <http://www.apple.com/> as a example for good style.
+I take <http://www.apple.com/> as an example for good style.
 
 ### Logo
 
 I am not with you to choose _Tux_ as logo for your shop, it is simply not
-distinguishable enough from the standard tux logo.  You have a character _Tao_
+distinguishable enough from the standard tux logo. You have a character _Tao_
 on that, but for me that is not related to your product. As a customer, all I
 want from a site is the info of the products and services. And I will be
 most satisfied if I experience the most in beauty and the least in complexity
-while getting all the info I want.  If a site fail to do that, it will lose my
-love in the first 5 or 10 seconds.  All in all, do not push content unrelated
+while getting all the info I want. If a site fail to do that, it will lose my
+love in the first 5 or 10 seconds. All in all, do not push content unrelated
 because of your personal taste, this is also for your slogan _ZiQiangBuXi_.
 
 A logo shall be unique, simple and preferably somewhat related to your
-product. For me I need a logo suitable for different colors, cause one day I
-may want to change the css of this site and have another color scheme.  The
+product. For me I need a logo suitable for different colors, because one day I
+may want to change the CSS of this site and have another color scheme. The
 logos of apple and ubuntu are good.
 
 ### Details
 
-You have not add your logo to your `<head><title>`, that is detail of cause,
+You have not add your logo to your `<head><title>`, that is detail of course, 
 but _Devil Lives In Details_, the absence of this will be considered
 unprofessional in the picky eyes of your potential customers.
 
