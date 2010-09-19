@@ -101,7 +101,7 @@ My deep love for [git-scm][git-scm] resulted in this project. Building GUI front
 
 __2008.8~2008.9:__ [Hen][hen]
 
-My tiny projects of interest projects are safe here as "eggs" :-)
+My tiny projects of interest are safe here as "eggs" :-)
 
  - YUM plugin 
  - Meego and Andriod 
