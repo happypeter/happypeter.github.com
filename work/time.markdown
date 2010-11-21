@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Did All These Years
+title: What I Did All These Years(as a programmer)
 ---
 
 ### 1999
@@ -53,3 +53,6 @@ __2008.8 ~ 2008.9:__ [Lenovo Co.Ltd][lenovo]
 I participated in the smart phone project _Cixtone_ mainly worked on the
 _Officeviewer_ part developed with Qt, as a tester. 
 
+### 2009
+
+Worked for Asianux for 9 months, as a system updater developer

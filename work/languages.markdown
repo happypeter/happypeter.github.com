@@ -24,11 +24,11 @@ with C++.
 
 ## PHP
 
+_2009:_  done same simple PHP code in a typical LAMP environment
+
 ## HTML
 
 ## Python
-
-
 
 _2009:_ Asianux(the company I was working for at that time) made a decision
 to switch from its own system updater(axtu) to YUM, as at that time the only
@@ -40,8 +40,6 @@ started to learn and use Python.
 ## Make
 
 ## Java
-
-
 
 _2002:_ My cusion Aric Zhou(now employee of IBM) was at that time studying in
 Tsinghua Unversity. I stayed in his dorm for a couple of weeks for my own
