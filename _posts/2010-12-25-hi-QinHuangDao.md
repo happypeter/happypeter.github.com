@@ -6,7 +6,7 @@ Merry Xmas guys. I am already missing you.
 
 It was great honor of mine to show you the charming world of Linux and
 OpenSource. For me it's all about humanity, about helping people make a life
-during the process of make a living.
+during the process of making a living.
 
 Technology is a lot of fun when you do it the right way, then what is the
 right way? 
