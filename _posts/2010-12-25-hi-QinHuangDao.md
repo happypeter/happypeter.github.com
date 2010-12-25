@@ -18,7 +18,7 @@ is the power from the bottom of your heart that will eventually take you
 through. And the power is not from the tease of Money and Fame, but from the
 charm of the tech itself, hacker is somebody that loves playful cleverness, as
 Richard Stallman once put it. No good programmer learn to be great, they
-became great be following their love and passion. So learning by doing my
+became great by following their love and passion. So learning by doing my
 friends, and for us programmers, maybe its more proper to say, learning by
 PLAYING.
 
