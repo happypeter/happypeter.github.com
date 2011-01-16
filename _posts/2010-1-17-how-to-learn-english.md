@@ -19,15 +19,13 @@ culture and already determined to be a life long English Learner.
 ## About  Grammar 
 I am never interested in learning grammar, it is not because I do not want to 
 write sentences formally and rightly, but rather that it is tooo
-difficult to learn. Grammar is, as they, you learn one rule
-and 1000 exceptions will come with it. I tried , but failed terribly.
+difficult to learn. Grammar is like this, you learn one rule
+and 1000 exceptions will come with it. I tried to learn , but failed terribly.
 
 Too much concern on grammar makes learning so
-boring and using English so painful. The middle school exams hold a
-high priority for grammar, that is why I hated the exams with all my
-passion. But you know what? I ended up being a not-so-bad grammar guy
-in my class, I should insist I never tried to learn, I just got there
-by reading enough right sentences, I read lots of books. I do not want
+boring and using English so painful. 
+
+I do not want
 to be egoistic and do show-off, I just want to conclude from my own
 pain and experience:
 
@@ -71,7 +69,9 @@ to make a living, that why I started programming since the first year
 of my post graduate study. It was not so bad, coding was also
 interesting. But one year later, that was the winter of 2007, I felt I
 had been kept really busy for programming and I did not have enough time
-for English study.    
+for English study. so I made
+
+## A big decision
 
 I was scared, since if you do not have enough for English, you start to forget
 things. I thought I might lost all I had achieved till then. So it was kind of
