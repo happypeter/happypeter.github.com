@@ -42,7 +42,7 @@ difficult to do so. Grammar is, as they, there is one rule
 and 1000 exceptions will come with it. I tried to learn it, but failed
 terribly.
 
-too much concern on grammar makes learning so
+Too much concern on grammar makes learning so
 boring and using English so painful. The middle school exams hold a
 high priority for grammar, that is why I hated the exams with all my
 passion. But you know what? I ended up being a not-so-bad grammar guy
@@ -102,9 +102,9 @@ I think that is because:
 
 ## Examinations are Evil
 
-it is worse than bad, it is evil. The more attention you put into exams, the less likely you can speak English well.
+It is worse than bad, it is evil. The more attention you put into exams, the less likely you can speak English well.
 
 ## conclusion
 
-forget about exams, go explore new world with English, reading English books,
-takeing notes in English. trust me, I tried, and it worked.
+Forget about exams, go explore new world with English, reading English books,
+taking notes in English. Trust me, I tried, and it worked.
