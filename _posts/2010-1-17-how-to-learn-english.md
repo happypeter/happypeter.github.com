@@ -2,45 +2,25 @@
 layout: post
 ---
 ## Synopsis
-As a long time English learner, here I am trying to give you what as I
-see is the right way to learn English Language.
 For me the only right way to learn a foreign language is to do it the
-same way you learn your birth tongue. That is, try to use it in your
+same way you learned your birth tongue. That is, trying to use it in your
 life and work. 
 
 ## Intended Audience
-This HOWTO is not for native English speakers, since we are only
-concentrate on how to master basic English skills, like how to express
-yourself simply, naturally, which is what all native
-speakers already good at.
-
-And if you live in Europe, you may also find this article is not so
-useful. I have many European friends, all of them speaks very
-good English, and I do not think they need to study really hard to be
-that way, because in Europe, people knows the right way to learn
-English, and they are doing it well.
-
-But things are definitely not true in Asia, and to be more trustworthy
 I would like to talk about only the situation in China. Everybody is spending lots of
-time studying, but most people are in the wrong way. That's why I feel
-this HOWTO might be of some meaning.
+time studying, but most people are on the wrong track. That's why I feel
+this HOWTO might be meaningful.
 
-Again, I am not giving the suggestions to my fellow citizens whose
-major is English. And my viewpoint here will not work well,  if you
-are siting for a English level exam and want to improve your English
-in short time. Rather, the intended audience would be people like
+The intended audience would be people like
 me who need to use English in daily work, but do not really have
-full time to study it. And the people who want to explore the western
-culture and already determined to be a life long English Learner. Or,
-college students who need to take CET-4(College English Test band-4,
-it sucks!), but are still one year or two before that.
+much time to study it. And the people who want to explore the western
+culture and already determined to be a life long English Learner. 
 
 ## About  Grammar 
 I am never interested in learning grammar, it is not because I do not want to 
 write sentences formally and rightly, but rather that it is tooo
-difficult to do so. Grammar is, as they, there is one rule
-and 1000 exceptions will come with it. I tried to learn it, but failed
-terribly.
+difficult to learn. Grammar is, as they, you learn one rule
+and 1000 exceptions will come with it. I tried , but failed terribly.
 
 Too much concern on grammar makes learning so
 boring and using English so painful. The middle school exams hold a
@@ -51,8 +31,8 @@ by reading enough right sentences, I read lots of books. I do not want
 to be egoistic and do show-off, I just want to conclude from my own
 pain and experience:
 
-__you do not need to learn grammar, it will comes to you when you've
-read enough right sentences__ 
+## you do not need to learn grammar
+it will comes to you when you've read enough right sentences
 
 ## What is good English?
 The topic seems a little obscure, I know that. Here I only focus on
@@ -93,10 +73,17 @@ interesting. But one year later, that was the winter of 2007, I felt I
 had been kept really busy for programming and I did not have enough time
 for English study.    
 
-## The wrong way to learn
+I was scared, since if you do not have enough for English, you start to forget
+things. I thought I might lost all I had achieved till then. So it was kind of
+life or death moment for my English Learning. So I made a big decision, and I
+throwed away all my programming books in Chinese, and uninstalled Chinese input
+on my PC. That was a pretty crazy action I took, a big leap of faith, but it
+turned out to be really rewarding for my life and career. Until now, I still do not have Chinese
+input on my computer:)
+
+## Trap to avoid
 In all my six years middle school life, everybody in my class tried
-really hard to learn English, and me as no exception. But I really
-hated it, English study is so boring
+really hard to learn English. But I really hated it, English study is so boring
 
 I think that is because:
 
@@ -107,4 +94,4 @@ It is worse than bad, it is evil. The more attention you put into exams, the les
 ## conclusion
 
 Forget about exams, go explore new world with English, reading English books,
-taking notes in English. Trust me, I tried, and it worked.
+taking notes in English. Happy learning!
