@@ -65,21 +65,21 @@ I like, and I felt kind of free this way during my under gradate life,
 that was 2001~2005, so I just love reading books in English, and I
 spent nearly all my time learning English, and I loved it. But things
 changed with the time passing by, and I eventually need to find a way
-to make a living, that why I started programming since the first year
+to make a living, that's why I started programming since the first year
 of my post graduate study. It was not so bad, coding was also
 interesting. But one year later, that was the winter of 2007, I felt I
 had been kept really busy for programming and I did not have enough time
-for English study. so I made
-
-## A big decision
+for English study.
 
 I was scared, since if you do not have enough for English, you start to forget
 things. I thought I might lost all I had achieved till then. So it was kind of
-life or death moment for my English Learning. So I made a big decision, and I
-throwed away all my programming books in Chinese, and uninstalled Chinese input
+life or death moment for my English Learning. So I made 
+## A big decision
+
+I throwed away all my programming books in Chinese, and uninstalled Chinese input
 on my PC. That was a pretty crazy action I took, a big leap of faith, but it
-turned out to be really rewarding for my life and career. Until now, I still do not have Chinese
-input on my computer:)
+turned out to be really rewarding for my life and career. Until now, I still
+do not have Chinese input on my computer:)
 
 ## Trap to avoid
 In all my six years middle school life, everybody in my class tried
