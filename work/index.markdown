@@ -9,11 +9,11 @@ god in the world of the matrix.
 
 ### Projects
 
-__Go to__ [Github][github-peter] to view all my projects
+Go to [Github][github-peter] to view all my projects
 
 ### Books
 
-[Linux Guide for Chinese Beginners][lgcb]
+_[Linux Guide for Chinese Beginners]_[lgcb]
 ### Tech Experience
 
 Categorized by 
