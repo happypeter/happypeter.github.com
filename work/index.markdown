@@ -11,6 +11,9 @@ god in the world of the matrix.
 
 __Go to__ [Github][github-peter] to view all my projects
 
+### Books
+
+[Linux Guide for Chinese Beginners][lgcb]
 ### Tech Experience
 
 Categorized by 
@@ -19,3 +22,4 @@ Categorized by
 - [languages](languages.html)
         
 [github-peter]:http://github.com/happypeter
+[lgcb]:http://happypeter.github.com/LGCB/
