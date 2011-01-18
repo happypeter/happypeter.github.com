@@ -13,7 +13,7 @@ Go to [Github][github-peter] to view all my projects
 
 ### Books
 
-_[Linux Guide for Chinese Beginners]_[lgcb]
+_[Linux Guide for Chinese Beginners][lgcb]_
 ### Tech Experience
 
 Categorized by 
