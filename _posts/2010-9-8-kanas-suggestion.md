@@ -32,9 +32,6 @@ You have not add your logo to your `<head><title>`, that is detail of course,
 but _Devil Lives In Details_, the absence of this will be considered
 unprofessional in the picky eyes of your potential customers.
 
-Some of your pics have dark bar on the right, that does not look good, better
-to remove them with GIMP.
-
 ### English Version
 
 Nice to have a English Version of your stuff, I believe.
