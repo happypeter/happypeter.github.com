@@ -6,7 +6,7 @@ title: Peter's Corner
 Welcome, I am Peter Wang, a [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
-I own another site <http:happypeter.org> to share my Linux learning, if you
+I own another site <http://happypeter.org> to share my Linux learning, if you
 are interested, have a look there.
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
