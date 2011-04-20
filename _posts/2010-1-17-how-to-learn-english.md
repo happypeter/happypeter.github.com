@@ -18,7 +18,7 @@ culture and already determined to be a life long English Learner.
 
 ## About  Grammar 
 I am never interested in learning grammar, it is not because I do not want to 
-write sentences formally and rightly, but rather that it is tooo
+write sentences formally and rightly, but rather that it is too
 difficult to learn. Grammar is like this, you learn one rule
 and 1000 exceptions will come with it. I tried to learn , but failed terribly.
 
