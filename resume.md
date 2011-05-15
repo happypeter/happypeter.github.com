@@ -23,7 +23,7 @@ title: Peter Resume
 Peter Wang is a [Open Source Software][oss] developer. 
 
 ## Languages 
-([click to see details][languanges])
+([click to see details][language])
 
  - C
  - C++
@@ -128,7 +128,7 @@ __Go to__ [Github][github-peter] to view all my projects
 [yum]:http://yum.baseurl.org/
 [Tinylion]:http://happypeter.github.com/tinylion
 [tata]:http://happypeter.github.com/tata/
-[languanges]:http://happypeter.github.com/work/languages.html
+[language]:http://happypeter.github.com/work/languages.html
 [time]:http://happypeter.github.com/work/time.html
 [hen]:http://happypeter.github.com/hen/
 [Gitbro]:http://happypeter.github.com/gitbro
