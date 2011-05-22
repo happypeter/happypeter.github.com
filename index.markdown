@@ -30,7 +30,7 @@ I am building another site <http://happypeter.org> to help people learn Linux ba
 
 <blockquote>
 <p>
-happypeter1983 at gmail.com
+happypeter1983@gmail.com
 </p>
 </blockquote>
 
