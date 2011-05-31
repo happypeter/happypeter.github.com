@@ -20,17 +20,13 @@ culture and already determined to be a life long English Learner.
 I am never interested in learning grammar, it is not because I do not want to 
 write sentences formally and rightly, but rather that it is too
 difficult to learn. Grammar is like this, you learn one rule
-and 1000 exceptions will come with it. I tried to learn , but failed terribly.
+and 1000 exceptions will come with it. 
 
 Too much concern on grammar makes learning so
 boring and using English so painful. 
 
-I do not want
-to be egoistic and do show-off, I just want to conclude from my own
-pain and experience:
-
 ## you do not need to learn grammar
-it will comes to you when you've read enough right sentences
+It will come to you after you read enough right English sentences.
 
 ## What is good English?
 The topic seems a little obscure, I know that. Here I only focus on
@@ -55,21 +51,16 @@ reasons I stick to the point that
 
 ## English can only be learned in practical use.     
 Well, I actually started to study this language in 1995, the first
-year of my junior middle school. But it was merely 3 years ago that I
-started to really using it. I do not want to wear your patience out by
-telling a lot of my personal stories, but I want to tell you why I did
-such a switch since I believe many people has such kind of dilemma.
+year of my junior middle school. But it was in the year of 2008 that I
+started to really using it. 
 
-I has always been a idiot who leads very simple life by doing whatever
-I like, and I felt kind of free this way during my under gradate life,
-that was 2001~2005, so I just love reading books in English, and I
-spent nearly all my time learning English, and I loved it. But things
-changed with the time passing by, and I eventually need to find a way
-to make a living, that's why I started programming since the first year
-of my post graduate study. It was not so bad, coding was also
-interesting. But one year later, that was the winter of 2007, I felt I
-had been kept really busy for programming and I did not have enough time
-for English study.
+
+I want to tell you why I did such a switch since I believe many people has such kind of dilemma as well.
+
+I started programming since the first year of my post graduate study. It was
+not so bad, coding was also interesting. But one year later, that was the
+winter of 2007, I felt I had been kept really busy for programming and I did
+not have enough time for English study.
 
 I was scared, since if you do not have enough for English, you start to forget
 things. I thought I might lost all I had achieved till then. So it was kind of
@@ -93,5 +84,4 @@ It is worse than bad, it is evil. The more attention you put into exams, the les
 
 ## conclusion
 
-Forget about exams, go explore new world with English, reading English books,
-taking notes in English. Happy learning!
+Forget about exams, try to use English as often as you can.
