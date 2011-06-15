@@ -47,11 +47,9 @@ Scratch_, was really a big help.
 
 ## But Be warned!
 
-I am feeling good learning, I love the RoR community, interesting and
-passionate people here. But if you do not have basic command line skills, like
-you never heard off what a _shell script_ is, you may have less joyful
-learning process. RoR is a typical Unix toy, it gets really naughty on
-Windows.
+If you do not have basic command line skills, like you never heard off what a
+_shell script_ is, you may have less joyful learning process. RoR is a typical
+Unix toy, it gets really naughty on Windows.
 
 
 BTW, knowing [git-scm][git] is also a big bonus to make the learning process
