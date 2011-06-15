@@ -61,3 +61,4 @@ exciting.
 [dhh]:  http://www.loudthinking.com/
 [git]:  http://git-scm.com
 [ror]:  http://rubyonrails.org/
+[off]:  http://guides.rubyonrails.org/
