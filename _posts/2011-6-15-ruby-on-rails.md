@@ -62,3 +62,4 @@ exciting.
 [git]:  http://git-scm.com
 [ror]:  http://rubyonrails.org/
 [off]:  http://guides.rubyonrails.org/
+[rfz]:  http://railsforzombies.org/
