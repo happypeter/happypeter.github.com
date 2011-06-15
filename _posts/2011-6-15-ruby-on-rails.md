@@ -12,6 +12,7 @@ since they have a lot of feathers I don't love or need.  Hey, I am a coder, so
 I do not mind learning a whole new [framework][fw] to do the
 code from scratch.
 
+
 ## So why RoR, not [Django][dj] or java?
 
 It's all because [github][gh] which was built on RoR. I love it and I also
@@ -23,6 +24,13 @@ So I did not even give Django a try, even though I have some python experience w
 The author of RoR, [DHH][dhh], said he built this to fight against java for
 programmers happiness, productiveness, and more importantly freedom. Freedom
 is sexy, thus RoR over java is a natural choice for me.  
+
+More importantly I think, when you want to get your feet wet in a now area, it
+is more than wise to find a group of smart people you can join. I already knew
+some of these people even before I joined the RoR community. So now even RoR
+is not the best web framework on this planet, it's still great for me to get
+access to these nice guys to guide my way. Otherwise, I would simply get lost
+in the vast ocean of concepts, like html, css, restful design...
 
 ## Is it a right decision?
 
