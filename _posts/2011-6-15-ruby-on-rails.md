@@ -41,10 +41,10 @@ Windows.
 BTW, knowing [git-scm][git] is also a big bonus to make the learning process
 exciting.
 
-[ho]:   happypeter.org
+[ho]:   http://happypeter.org
 [bb]:   http://www.phpbb.com/
 [dj]:   https://www.djangoproject.com/
 [hn]:   http://news.ycombinator.com/
-[rc]:   railscasts.com
-[git]:  git-scm.com
+[rc]:   http://railscasts.com
+[git]:  http://git-scm.com
 [ror]:  http://rubyonrails.org/
