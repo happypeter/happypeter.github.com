@@ -7,9 +7,9 @@ These days, I am learning [Ruby on Rails][ror].
 
 Building my [happypeter.org][ho], basically I want to share my screencasts and
 have a [HackerNews][hn]-like forum, so that people can come, see, and talk.
-People introduced things like [phpBB][bb], well, it is far from what I
-wanted quite frankly, since it has a lot of feathers I don't love or need.
-Hey, I am a coder, so I do not mind learning a whole new [framework][fw] to do the
+Ready-made things like [phpBB][bb] are far from what I wanted quite frankly,
+since they have a lot of feathers I don't love or need.  Hey, I am a coder, so
+I do not mind learning a whole new [framework][fw] to do the
 code from scratch.
 
 ## So why Ruby on Rails, not [Django][dj] or java?
@@ -52,6 +52,7 @@ exciting.
 [ho]:   http://happypeter.org
 [bb]:   http://www.phpbb.com/
 [dj]:   https://www.djangoproject.com/
+[gh]:   https://github.com/
 [fw]:   http://en.wikipedia.org/wiki/Software_framework
 [hn]:   http://news.ycombinator.com/
 [rc]:   http://railscasts.com
