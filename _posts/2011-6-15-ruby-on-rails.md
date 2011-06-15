@@ -25,9 +25,9 @@ The author of RoR, [DHH][dhh], said he built this to fight against java for
 programmers' happiness, productiveness, and more importantly freedom. Freedom
 is sexy, thus RoR over java is a natural choice for me.  
 
-More importantly I think, when you want to get your feet wet in a now area, it
-is more than wise to find a group of smart people you can join. I already knew
-some of these people even before I joined the RoR community. So now even RoR
+More importantly I think, when you want to get your feet wet in a new area, it
+is more than wise to find a group of smart people you can join(I already knew
+some of these people even before I joined the RoR community). So now even RoR
 is not the best web framework on this planet, it's still great for me to get
 access to these nice guys to guide my way. Otherwise, I would simply get lost
 in the vast ocean of concepts, like html, css, restful design...
@@ -47,7 +47,7 @@ Scratch_, was really a big help.
 
 ## But Be warned!
 
-If you do not have basic command line skills, like you never heard off what a
+If you do not have basic command line skills, like you never heard of what a
 _shell script_ is, you may have less joyful learning process. RoR is a typical
 Unix toy, it gets really naughty on Windows.
 
