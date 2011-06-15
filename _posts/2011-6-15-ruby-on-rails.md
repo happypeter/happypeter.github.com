@@ -17,7 +17,7 @@ code from scratch.
 
 It's all because [github][gh] which was built on RoR. I love it and I also
 love some other neat tools like [showoff][sf] and [jekyll][jk] there, anyway
-the whole ecosystem looked charming and promising to me even as a outsider. 
+the whole ecosystem looked charming and promising to me even as an outsider. 
 
 So I did not even give Django a try, even though I have some python experience while knows nothing about [Ruby][ry] language.
 
@@ -34,9 +34,9 @@ in the vast ocean of concepts, like html, css, restful design...
 
 ## Is it a right decision?
 
-Yes, I was right, and it is even gets righter as my study continues.
+Yes, I was right, and it is even getting righter as my study continues.
 
-I started with [a official guide][off], quite a good place to start from ZERO.
+I started with an [official guide][off], quite a good place to start from ZERO.
 
 Then I found [RailsforZombies][rfz]. I had never seen some cooler screencasts
 before. Again, it is definitely friendly for absolute beginners.
