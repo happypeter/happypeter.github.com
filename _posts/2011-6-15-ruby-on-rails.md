@@ -12,12 +12,17 @@ wanted quite frankly, since it has a lot of feathers I don't love or need.
 Hey, I am a coder, so I do not mind learning a whole new [framework][fw] to do the
 code from scratch.
 
-## So why Ruby on Rails, not other framework like [Django][dj] or java?
+## So why Ruby on Rails, not [Django][dj] or java?
 
 It's all because [github][gh], I love it, it was built on rails, and I also
 love some other neat tools like [showoff][sf] and [jekyll][jk], anyway it
-looked charming and promising. So I did not even give Django a try, even I
-have some python skills while knows nothing about [Ruby][ry] language.
+looked charming and promising. 
+
+So I did not even give Django a try, even I have some python skills while knows nothing about [Ruby][ry] language.
+
+The author of RoR, [DHH][dhh], said he built this to fight against java for
+programmers happiness, productiveness, and more importantly freedom. Freedom
+is sexy, thus RoR over java is a natural choice for me.  
 
 ## Is it a right decision?
 
