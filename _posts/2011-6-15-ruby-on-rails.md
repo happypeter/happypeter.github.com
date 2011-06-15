@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-These days, I am learning [Ruby on Rails][ror].
+These days, I am learning [Ruby on Rails][ror](RoR for short).
 
 ## Because I want to do things my own way
 
@@ -12,9 +12,9 @@ since they have a lot of feathers I don't love or need.  Hey, I am a coder, so
 I do not mind learning a whole new [framework][fw] to do the
 code from scratch.
 
-## So why Ruby on Rails, not [Django][dj] or java?
+## So why RoR, not [Django][dj] or java?
 
-It's all because [github][gh] which was built on rails. I love it and I also
+It's all because [github][gh] which was built on RoR. I love it and I also
 love some other neat tools like [showoff][sf] and [jekyll][jk] there, anyway
 the whole ecosystem looked charming and promising to me even as a outsider. 
 
