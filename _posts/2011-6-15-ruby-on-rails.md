@@ -54,6 +54,8 @@ exciting.
 [dj]:   https://www.djangoproject.com/
 [gh]:   https://github.com/
 [fw]:   http://en.wikipedia.org/wiki/Software_framework
+[sf]:   https://github.com/scottbale/showoff
+[jk]:   http://jekyllrb.com
 [hn]:   http://news.ycombinator.com/
 [rc]:   http://railscasts.com
 [git]:  http://git-scm.com
