@@ -14,11 +14,11 @@ code from scratch.
 
 ## So why Ruby on Rails, not [Django][dj] or java?
 
-It's all because [github][gh], I love it, it was built on rails, and I also
-love some other neat tools like [showoff][sf] and [jekyll][jk], anyway it
-looked charming and promising. 
+It's all because [github][gh] which was built on rails. I love it and I also
+love some other neat tools like [showoff][sf] and [jekyll][jk] there, anyway
+the whole ecosystem looked charming and promising to me even as a outsider. 
 
-So I did not even give Django a try, even I have some python skills while knows nothing about [Ruby][ry] language.
+So I did not even give Django a try, even though I have some python experience while knows nothing about [Ruby][ry] language.
 
 The author of RoR, [DHH][dhh], said he built this to fight against java for
 programmers happiness, productiveness, and more importantly freedom. Freedom
