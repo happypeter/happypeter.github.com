@@ -26,7 +26,7 @@ is sexy, thus RoR over java is a natural choice for me.
 
 ## Is it a right decision?
 
-Yes, I was right, and it is even gets righter with my study continues.
+Yes, I was right, and it is even gets righter as my study continues.
 
 I started with [a official guide][off], quite a good place to start from ZERO.
 
