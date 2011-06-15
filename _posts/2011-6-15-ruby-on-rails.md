@@ -22,7 +22,7 @@ the whole ecosystem looked charming and promising to me even as a outsider.
 So I did not even give Django a try, even though I have some python experience while knows nothing about [Ruby][ry] language.
 
 The author of RoR, [DHH][dhh], said he built this to fight against java for
-programmers happiness, productiveness, and more importantly freedom. Freedom
+programmers' happiness, productiveness, and more importantly freedom. Freedom
 is sexy, thus RoR over java is a natural choice for me.  
 
 More importantly I think, when you want to get your feet wet in a now area, it
@@ -61,6 +61,7 @@ exciting.
 [gh]:   https://github.com/
 [fw]:   http://en.wikipedia.org/wiki/Software_framework
 [sf]:   https://github.com/scottbale/showoff
+[ry]:   http://www.ruby-lang.org/en/
 [jk]:   http://jekyllrb.com
 [hn]:   http://news.ycombinator.com/
 [rc]:   http://railscasts.com
