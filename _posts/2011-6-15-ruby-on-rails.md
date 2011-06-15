@@ -8,7 +8,7 @@ These days, I am learning [Ruby on Rails][ror](RoR for short).
 Building my [happypeter.org][ho], basically I want to share my screencasts and
 have a [HackerNews][hn]-like forum, so that people can come, see, and talk.
 Ready-made things like [phpBB][bb] are far from what I wanted quite frankly,
-since they have a lot of feathers I don't love or need.  Hey, I am a coder, so
+since they have a lot of features I don't love or need.  Hey, I am a coder, so
 I do not mind learning a whole new [framework][fw] to do the
 code from scratch.
 
