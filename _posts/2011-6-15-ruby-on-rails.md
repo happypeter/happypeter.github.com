@@ -30,14 +30,14 @@ Yes, I was right, and it is even gets righter as my study continues.
 
 I started with [a official guide][off], quite a good place to start from ZERO.
 
-Then I find [RailsforZombies][rfz], and I've never seen some cooler screencasts
-before, again, it is definitely friendly for absolute beginners like me.
+Then I found [RailsforZombies][rfz]. I had never seen some cooler screencasts
+before. Again, it is definitely friendly for absolute beginners.
 
-When I had the very basic concepts in hand and really want to do some real
+When I had the very basic concepts in hand and really wanted to do some real
 code, I found [railscasts.com][rc]. __Episode 250:__ _Authentication from
 Scratch_, was really a big help.
 
-## It is fun
+## But Be warned!
 
 I am feeling good learning, I love the RoR community, interesting and
 passionate people here. But if you do not have basic command line skills, like
