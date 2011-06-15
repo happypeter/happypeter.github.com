@@ -58,5 +58,6 @@ exciting.
 [jk]:   http://jekyllrb.com
 [hn]:   http://news.ycombinator.com/
 [rc]:   http://railscasts.com
+[dhh]:  http://www.loudthinking.com/
 [git]:  http://git-scm.com
 [ror]:  http://rubyonrails.org/
