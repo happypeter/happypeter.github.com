@@ -9,17 +9,17 @@ Building my [happypeter.org][ho], basically I want to share my screencasts and
 have a [HackerNews][hn]-like forum, so that people can come, see, and talk.
 Ready-made things like [phpBB][bb] are far from what I wanted quite frankly,
 since they have a lot of features I don't love or need.  Hey, I am a coder, so
-I do not mind learning a whole new [framework][fw] to do the
+I do not mind learning a whole new [framework][fw] and do the
 code from scratch.
 
 
 ## So why RoR, not [Django][dj] or java?
 
-It's all because [github][gh] which was built on RoR. I love it and I also
-love some other neat tools like [showoff][sf] and [jekyll][jk] there, anyway
-the whole ecosystem looked charming and promising to me even as an outsider. 
+It's all because [github][gh] (built on RoR). I love it and I also
+love some other neat RoR-based tools like [showoff][sf] and [jekyll][jk] there, anyway
+the whole ecosystem looked charming and promising to me as an outsider. 
 
-So I did not even give Django a try, even though I have some python experience while knows nothing about [Ruby][ry] language.
+So I did not give Django a try, even though I have some python experience while knows nothing about [Ruby][ry] language.
 
 The author of RoR, [DHH][dhh], said he built this to fight against java for
 programmers' happiness, productiveness, and more importantly freedom. Freedom
@@ -27,7 +27,7 @@ is sexy, thus RoR over java is a natural choice for me.
 
 More importantly I think, when you want to get your feet wet in a new area, it
 is more than wise to find a group of smart people you can join(I already knew
-some of these people even before I joined the RoR community). So now even RoR
+some of these people even before I started learning  RoR). So now even if RoR
 is not the best web framework on this planet, it's still great for me to get
 access to these nice guys to guide my way. Otherwise, I would simply get lost
 in the vast ocean of concepts, like html, css, restful design...
