@@ -28,7 +28,7 @@ Peter Wang is a [Open Source Software][oss] developer.
  - C
  - C++
  - Python
- - PHP
+ - Ruby (on rails)
  - elisp
  - bash
  - make
@@ -46,9 +46,9 @@ _C languange_ (2002) and later learned two assembles, one for
 programming(2003).  Single thread programming, close to the hardware. But this
 changed when I started my postgraduate life in:
 
-__2006.9~2009.3:__ North China Electric Power University, No degree
+__2006.9~2009.3:__ North China Electric Power University, No degree.
 
-I hate the place, so I left without a degree. Lucky side is that I started
+I hate the place, so I left without a degree. Lucky side was that I started
 learning Linux here, and my life changed.
 
 I did reserch on developing  _Vibration data acquisition instruments_ to be
@@ -106,8 +106,6 @@ __2008.8~2008.9:__ [Hen][hen]
 My tiny projects of interest are safe here as "eggs" :-)
 
  - YUM plugin 
- - Meego and Andriod 
- - Network Manager 
  - MoinToMuse convertor(writen in python)
  - and [more][hen]
 
