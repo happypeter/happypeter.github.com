@@ -37,17 +37,19 @@ Peter Wang is a [Open Source Software][oss] developer.
 ## Education 
 ([click to see how I wasted my years][time])
 
-__2001.9~2005.7:__ Hebei University of Science & Technology
+__2001.9~2005.7:__ Hebei University of Science & Technology, BSc, Electitrical
+Engineering.
 
-During my under graduate study, my major was [_Electrical
-Engineering_][electricalengineering]. To do [motor contol][motor] and
-[automation][automation], we had a course on _C languange_ (2002) and later
-learned two assembles, one for [MSC-51][mcs51](2004), the other
-[8086][8086](2004) I also learned [PLC][plc] programming(2003). 
-Single thread programming, close to the hardware. But this changed when I
-started my postgraduate life in:
+To do [motor contol][motor] and [automation][automation], we had a course on
+_C languange_ (2002) and later learned two assembles, one for
+[MSC-51][mcs51](2004), the other [8086][8086](2004) I also learned [PLC][plc]
+programming(2003).  Single thread programming, close to the hardware. But this
+changed when I started my postgraduate life in:
 
-__2006.9~2009.3:__ North China Electric Power University
+__2006.9~2009.3:__ North China Electric Power University, No degree
+
+I hate the place, so I left without a degree. Lucky side is that I started
+learning Linux here, and my life changed.
 
 I did reserch on developing  _Vibration data acquisition instruments_ to be
 used in power plants, we started with _80C51F_, linking against the C lib that
