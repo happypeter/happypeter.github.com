@@ -35,7 +35,3 @@ happypeter1983@gmail.com
 </blockquote>
 
 
-<script type="text/javascript" src="http://cdn.sublimevideo.net/js/ubisak9n.js"></script>
-<video class="sublime" width="640" height="360" poster="video-poster.jpg" preload="none">
-  <source src="http://media.happypeter.org/happycasts/201108060324_qhd.mov " />
-</video>
