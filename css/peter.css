@@ -47,3 +47,9 @@ font-size: 15px;
 font-weight: bold;
 }
 
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
