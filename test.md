@@ -2,7 +2,7 @@
 layout: post
 title: test
 --- 
-{% highlight ruby %}
+{% highlight ruby linenos %}
 def foo
   puts 'foo'
 end
