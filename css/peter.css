@@ -6,8 +6,9 @@
 */
 body
 {
-margin-left: 200px;
-margin-right: 200px;
+  margin-left: 200px;
+  font-family: Helvetica, Arial, FreeSans, sans-serif;
+  margin-right: 200px;
 }
 
 /*Remove the line under links*/
