@@ -36,16 +36,16 @@ padding-left: 3px;
 
 #menu ul li.first
 {
-border-left: 0px;
+  border-left: 0px;
 }
 
 #menu ul li a
 {
-background-color: transparent;
-background-repeat: repeat-x;
-padding: 8px 12px 8px 12px;
-font-size: 15px;
-font-weight: bold;
+  background-color: transparent;
+  background-repeat: repeat-x;
+  padding: 8px 12px 8px 12px;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 ul.posts {
@@ -57,4 +57,9 @@ ul.posts span {
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
-
+blockquote {
+  background: whiteSmoke;
+  font-family: calibri,tahoma,arial,sans-serif;
+  color: #333;
+  padding: 5px;
+}
