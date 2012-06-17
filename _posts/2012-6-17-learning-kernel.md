@@ -29,7 +29,7 @@ title: 我为何放弃linux内核学习
 所以说，我当时倒不如把C学好，这样以后不管是向上发展做应用，或是向下做系统编程做内核，知识结构上都是一个更为合理的基础。
 然后如果真的想做内核的话，还要有bash脚本的基本功，比较强的各种编程工具的使用技巧。内核是世界上最大的软件项目之一，如果你连一个小项目都还没做过的话，着手内核也是明显不合理的。
 
-不过幸运的是我的英文水平还好，同时又会一些[Qt][qt]，所以毕业以后有幸到Asianux工作，维护系统的updater（就是apt-get和yum一类的东西），也是从那时开始我才意识到Linux真正的魅力在于它是Internet的支撑，互联网才是属于我的舞台。所以我最终放弃学习内核倒不是因为困难和挫折，主要还是因为个人的兴趣和价值取向。我觉得学编程就跟学音乐学美术一样，作用是表达我们自己的思想，最终目的是能够服务人群。这里着重聊一下每个人的兴趣和思想。我觉得我是那种技术平庸的人，但是我喜欢做东西，同时喜欢像别人炫耀东西，比较人文情怀的一个手工艺人（推荐你看一下[Hackers and Painters][hp]），所以我觉得还是做app更加的舒畅，因为
+不过幸运的是我的英文水平还好，同时又会一些[Qt][qt]，所以毕业以后有幸到Asianux工作，维护系统的updater（就是apt-get和yum一类的东西），也是从那时开始我才意识到Linux真正的魅力在于它是Internet的支撑，互联网才是属于我的舞台。所以我最终放弃学习内核倒不是因为困难和挫折，主要还是因为个人的兴趣和价值取向。学编程就跟学音乐学美术一样，作用是表达我们自己的思想，最终目的是能够服务人群。我是那种技术平庸的人，但是我喜欢做东西，同时喜欢像别人炫耀东西，比较人文情怀的一个手工艺人（推荐你看一下[Hackers and Painters][hp]），所以我觉得还是做app更加的舒畅，因为
 
 ### 内核编程是面向硬件的，应用编程是面向人的。
 
@@ -38,7 +38,10 @@ work", 由于Linus
 本人的强大魅力，所以忽悠很多连什么是software什么是hardware都分不清的年轻人，奋不顾身的投入到内核编程的大军，我本人当初就是这样，不过经过几年我发现其实硬件编程的时代早已经过去了。早期的制造硬件的Steve
 Wozniak，后来赋予人民群众驱动硬件能力的Linus，都是时代的英雄，因为时代需要它们，而现在这些砖块基石都已经具备，重造车轮没什么意义。所以2000年以来，世界一流的程序员都在关注使用这些砖块表达某种思维，RubyOnRails,
 google, facebook...
-扯得有点远了，国内的情况是搞硬件基本找不到工作，找到了也是薪水很低。我每次见到各个高校电子设计协会的人都会很耐心的劝它们早点放弃硬件投身互联网学习html+css，虽然每次都会遭到鄙视。
+
+扯得有点远了，国内的情况是搞硬件不太好找工作，找到了也是薪水很低。
+我每次见到各个高校电子设计协会的人都会很耐心的劝它们早点放弃硬件投身互联网学习html+css，虽然每次都会遭到鄙视。
+搞kernel的人，我见到的发展也不太理想。我在Asianux的同事Simon，一直负责公司的kernel部门，前一段跳槽到Oracle，不再搞kernel了。以前一个同学在AMD工作，还往Linus的Tree里打过几个Patch，现在跳槽到Intel，做Andriod，离kernel也有十万八千里。
 
 最后，给Linux新手的建议是
 
@@ -46,15 +49,14 @@ google, facebook...
 
 如果上天给我机会重来一次，我会从最简单的开始学，不但不会碰内核代码，语言也会先学一门简单语言例如Python或是Ruby。然后动手做一些简单有趣的网络应用，就像类似于Facebook的这种"html+javascript
 thing"，然后随着项目作大，可能某些部件需要用C
-重写才能满足要求，我才会去学C。我还是坚信由粗到细，是计算机教学的正确途径，而不是目前国内大学的这种由细到粗的愚蠢过程。
+重写才能满足要求，我才会去学C。我还是坚信由粗到细是计算机教学的正确途径，而不是目前国内大学的这种由细到粗的愚蠢过程。
 例证一下我的观点：
+- [MIT 的CS教学入门语言是Python][mit]
 
-- MIT 的CS教学入门语言是Python，
-  <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software/>
-
-- UCB 的RubyOnRails 课：
-  <https://www.coursera.org/course/saas>
+- [UCB 的RubyOnRails 课][ucb]
 
 
 [hp]:http://www.paulgraham.com/hp.html
-[qt]: http://qt.nokia.com
+[qt]:http://qt.nokia.com
+[mit]:http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software/
+[ucb]:https://www.coursera.org/course/saas
