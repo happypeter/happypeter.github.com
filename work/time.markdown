@@ -30,7 +30,7 @@ for 80C51 platform, did not achieve much and like much
 
 ### 2007
 
-Bad, bad, I can not remember how Linux stepped into my life, I should rememer
+Bad, bad, I can not remember how Linux stepped into my life, I should remember
 my first day with Linux, since it was really a important day in my life. But
 it was basically like this:
 
