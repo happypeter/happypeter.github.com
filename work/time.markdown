@@ -21,11 +21,11 @@ me that operating system in named Unix, and nobody knew how to use it...
 
 ### 2005
 
-photo shop, movie maker, gif generator, music convertor,... all in MS windows.
+Photoshop, Moviemaker, gif generator, music convertor,... all in MS windows.
 
 ### 2006
 
-this was the year I started to use C again, some simple single thread programs
+This was the year I started to use C again, some simple single thread programs
 for 80C51 platform, did not achieve much and like much
 
 ### 2007
@@ -56,3 +56,17 @@ _Officeviewer_ part developed with Qt, as a tester.
 ### 2009
 
 Worked for Asianux for 9 months, as a system updater developer
+
+### 2010
+
+One month work in <http://www.tvie.com.cn/> as python coder to do glue code in
+a multimedia project. Then I joined <http://www.akaedu.org>.
+
+### 2011
+
+Traveling, teaching all around the country, making a lot of friends. Started
+my <http://happycasts.net>
+
+### 2012
+
+Doing my <http://happycasts.net>...
