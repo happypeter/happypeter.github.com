@@ -2,8 +2,7 @@
   padding-left: 5%;
 }
 #wrapper {
-  padding-top: 5%;
-  padding-left: 5%;
+  padding: 5%;
   min-width: 480px;
 }
 
@@ -13,18 +12,18 @@ pre {
 
 #menu
 {
-position: relative;
-background: #dbdbdb no-repeat;
-height: 40px;
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 10px 0px;
+  position: relative;
+  background: #dbdbdb no-repeat;
+  height: 40px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
 }
 
 #menu ul li
 {
-display: inline;
-line-height: 40px;
-padding-left: 3px;
+  display: inline;
+  line-height: 40px;
+  padding-left: 3px;
 }
 
 #menu ul li.first
