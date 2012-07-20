@@ -8,26 +8,26 @@
 </head>
 <a href="http://happypeter.github.com/index.html">HOME</a> &nbsp; 
 <a href="http://happypeter.github.com/work/">WORK</a>
-<h1 style="text-align:center">{{ page.title }}</h1>
-<br>
-{{ content }}
-<br>
-<br>
-<br>
-<br>
-<!-- disqus start -->
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-  /**
- *     * var disqus_identifier; [Optional but recommended: Define a unique
- *     identifier (e.g. post id or slug) for this thread] 
- *         */
-  (function() {
-   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-   dsq.src = 'http://petercorner.disqus.com/embed.js';
-   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-
-<!-- disqus end -->
+<div id="wrapper" class="typo">
+  <h1 style="text-align:center">{{ page.title }}</h1>
+  <br>
+  {{ content }}
+  <br>
+  <br>
+  <br>
+  <br>
+  <!-- disqus start -->
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    /**
+   *     * var disqus_identifier; [Optional but recommended: Define a unique
+   *     identifier (e.g. post id or slug) for this thread] 
+   *         */
+    (function() {
+     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+     dsq.src = 'http://petercorner.disqus.com/embed.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script> <!-- disqus end -->
+</div>
 </html>
