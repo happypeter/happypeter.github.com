@@ -1,6 +1,10 @@
-#navbar, #wrapper {
-  padding:5% 8%;
-  min-width:480px;
+#navbar {
+  padding-left: 5%;
+}
+#wrapper {
+  padding-top: 5%;
+  padding-left: 5%;
+  min-width: 480px;
 }
 
 pre { 
