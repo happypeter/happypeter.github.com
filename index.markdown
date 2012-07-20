@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: default
 title: Peter's Corner
 ---
 
 Hi there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
-I am building another site <http://happycasts.net> to help people learn Linux
-skills.
+I am a screencastr at <http://happycasts.net>.
 
-[oss]:http://en.wikipedia.org/wiki/Open_source
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
@@ -18,7 +16,7 @@ skills.
     {% endfor %}
   </ul>
 
-<p><br /><b>Find me on:</b></p>
+<p><b>Find me on:</b></p>
 
 <ul>
 
@@ -33,4 +31,4 @@ skills.
 happypeter1983@gmail.com
 </blockquote>
 
-
+[oss]:http://en.wikipedia.org/wiki/Open_source
