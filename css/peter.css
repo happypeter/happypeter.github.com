@@ -7,7 +7,6 @@
 body
 {
   margin-left: 200px;
-  font-family: Helvetica, Arial, FreeSans, sans-serif;
   margin-right: 200px;
 }
 
@@ -56,10 +55,4 @@ ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
-}
-blockquote {
-  background: whiteSmoke;
-  font-family: calibri,tahoma,arial,sans-serif;
-  color: #333;
-  padding: 5px;
 }
