@@ -6,7 +6,8 @@ title: Peter's Corner
 Hi there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
-I am building another site <http://happypeter.org> to help people learn Linux basics.
+I am building another site <http://happycasts.net> to help people learn Linux
+skills.
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
 
@@ -29,9 +30,7 @@ I am building another site <http://happypeter.org> to help people learn Linux ba
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
-<p>
 happypeter1983@gmail.com
-</p>
 </blockquote>
 
 
