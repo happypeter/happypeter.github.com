@@ -1,13 +1,10 @@
-#navbar {
-  padding-left: 5%;
-}
-#wrapper {
-  padding: 5%;
-  min-width: 480px;
+.container {
+  width: 920px;
+  margin: 0 auto;
 }
 
-pre { 
-  margin-left: 3%; 
+pre {
+  margin-left: 3%;
 }
 
 #menu
