@@ -28,6 +28,6 @@ all the pages can use the same header and footer (now stored in ./css/), includi
 this guy uses markdown, and his site has page-like style, nice
 http://github.com/mreid/mark.reid.name/tree
 
-## have foucs
+## have focus
 
 <http://warpspire.com/posts/focus/>
