@@ -2,8 +2,8 @@
   padding-left: 5%;
 }
 #wrapper {
-  padding: 5%;
-  min-width: 480px;
+  max-width: 800px;
+  margin: 0 auto 20px;
 }
 
 pre { 
