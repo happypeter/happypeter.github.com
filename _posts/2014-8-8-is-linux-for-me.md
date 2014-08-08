@@ -31,4 +31,4 @@ Linux 是让我赚钱的方法。我不想要大家因为我有钱或有地位�
 
 ### 技术角度
 
-看看怎样成为一名黑客（How To Became A Hacker），作者 Eric Steven Raymond 。 如果你认可里面说法，我觉得 Linux 适合你。
+看看 《怎样成为一名黑客》（How To Became A Hacker），作者 Eric Steven Raymond 。 如果你认可里面说法，我觉得 Linux 适合你。
