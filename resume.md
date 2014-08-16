@@ -1,136 +1,21 @@
 ---
 layout: post
-title: Peter Resume
---- 
+title: Peter 是谁？
+---
 <img src="./images/peter.jpg" alt="Peter Face" />
 
-## Personal Info
+大家好，我叫王广忠，不过一般朋友们有叫我 Peter，网上我一般都叫 happypeter，比如我的 github 页面是 <http://github.com/happypeter> 我的 gmail 账号是 happypeter1983@gmail.com 等等。
 
-**Name**: Peter Wang
+这里的这份简历我把他理解是“交友简历”，我还有一份[工作简历](http://hireus.haoqicat.com/happypeter.html)，不过最近发现工作性的冷冰冰的简历是越来越没用了，反正每次我接触一个新朋友，我最想知道的都是一些八卦类的东西，你老家是哪里的，你干过什么有意思的事，有没有靓照可以分享？
 
-**Nationality:** China
+那我把我的信息奉上。我家祖祖辈辈都是农民，在河北黄骅的一个村子上已经生活的六百年了，先祖没有出村子的，我自己是第一代。不过他们不是文盲，我太爷爷是村里的先生，“念背打”的那种。不过也总算“家风半耕半读”吧，我觉得还是挺骄傲的。到我父母这一代由于政治原因，我家”成分不好“，右派，富农，他们都没有什么真正的文化，认字而已。
 
-**Address:** Beijing, P.R.China
+我是从小天纵英才，小学从二年级开始一直是班里第一。初中时我是我们班里跑长跑最快的人。高中时候，开始特别讨厌做题，喜欢看孔子孟子（这些到现在看来都是没错的，最后悔的是当时还看了《近思录》，“去人欲”的思想害死人）。他们都说我小小的孩子看古文，肯定脑子有点毛病，那时候确实是有点阴暗，主要是看《近思录》看的，高二得了胃溃疡，那一两年是我人生到目前为止最黑暗的时候，感觉人生就是在一个粪坑里做垂死挣扎。
 
-**Mobile:** (+86) 134-2608-3580
+后来上大学就到了石家庄，是个挺破的学校，现在已经都拆了，跟我的青春年少一样，随风飘逝了。在那里，我胃溃疡好了，理解到了学习的快乐，经历爱情，经历无数的泪水... 不扯了，反正每个人都曾经最美，大家都懂得，高中时我50岁，上完大学，我又成了二十几岁的人了。
 
-**Email**: happypeter1983@gmail.com
+研究生在北京读的，2006年入学，人生又进了粪坑，官僚气氛真恶心，这里的哲学是：“你能学到什么不重要，重要的是要服从”。不过这次我是在粪坑上冲浪，研一的时候我就决定不能跟这帮王八蛋走在一起，所以放弃电力，转学 Linux 和编程。最后我因为没有“好好配合导师的工作”最终没有拿到学位证。
 
-**HomePage:** <http://happypeter.github.com>
+不过，从哪里以后我也从从小的恐怖之中走出来了，我会编程，走到哪里都可以凭自己的力气吃饭，没什么好怕的，所以以后见到不顺眼的领导，见一个骂一个。第一份工作是在 Asianux 做系统升级器，主要是 C++，后来在 akaedu 做 Linux 讲师。目前再弄 happycasts.net 和 haoqicat.com ，如果我不再写代码，就是再录视频，不录视频的时候就是在写文章骂领导，生活很快乐。
 
-## Sentence Bio
-
-Peter Wang is a [Open Source Software][oss] developer. 
-
-## Languages 
-([click to see details][language])
-
- - C
- - C++
- - Python
- - Ruby (on rails)
- - elisp
- - bash
- - make
- - m4, awk, sed ...
-
-## Education 
-([click to see how I wasted my years][time])
-
-__2001.9~2005.7:__ Hebei University of Science & Technology, BSc, Electitrical
-Engineering.
-
-To do [motor contol][motor] and [automation][automation], we had a course on
-_C languange_ (2002) and later learned two assembles, one for
-[MSC-51][mcs51](2004), the other [8086][8086](2004) I also learned [PLC][plc]
-programming(2003).  Single thread programming, close to the hardware. But this
-changed when I started my postgraduate life in:
-
-__2006.9~2009.3:__ North China Electric Power University, No degree.
-
-I hate the place, so I left without a degree. Lucky side was that I started
-learning Linux here, and my life changed.
-
-I did reserch on developing  _Vibration data acquisition instruments_ to be
-used in power plants, we started with _80C51F_, linking against the C lib that
-came with it. Later, we switched to 32-bit ARM chip S3C2410. For the sake of 
-multithreading and GUI support, we needed a real kernel to settle the chaos, I
-picked up Linux(while some guys chose WinCE), and that changed my life. I
-spent most of my time on two things:
-
- - Linux driver for ARM(s3c24x0) chips.  
- - UI implemented with [Qt](http://qt.nokia.com/)
-
-## Me in real world
-
-__2009.3~2009.12:__ [Asianux Ltd][asianux]
-
-Maintainer of [AXTU][axtu], and later wrote a authentication plugin for
-[YUM][yum], in order to use it in Asianux4.0.
-
-__2008.7~present:__ [Beijing Linux User Group][blug]
-
- - manager of [Embedded Linux Group][elg]
- - manager of [GitBeijing][gitbeijing]
- - member of  [Quadcopter Group][quad]
-
-## Project Summary
-
-__2006.12~2008.11:__ [Tinylion][tinylion]
-
-I am the founder of this project. Open source hardware &
-software. Drivers and apps in C.
-
-
-__2008.12~present:__ [Tata][tata]
-
-Tata is a Qt project aiming at developing a data analysis program for
-scientific use. It contains wave form display and other data analysis
-functions. Initially designed to work on embedded platform as part of Tinylion.
-
-__2009.3~2009.10:__ [AXTU][axtu]
-
-AXTU is a Linux system updater, based on RPM, it has similiar work flow as
-YUM, but implemented in C++(Qt), it was created by Hansoft engineers, long
-time before I joined the development. What I added was:
- 
- - epoch handling
- - obsolete tag handling
-
-__2010.1~present:__ [Gitbro][gitbro]
-
-My deep love for [git-scm][git-scm] resulted in this project. Building GUI front-end with Qt, scripting my own work flow, and posting what I've learned at [GitBeijing][gitbeijing]. 
-
-__2008.8~2008.9:__ [Hen][hen]
-
-My tiny projects of interest are safe here as "eggs" :-)
-
- - YUM plugin 
- - MoinToMuse convertor(writen in python)
- - and [more][hen]
-
-__Go to__ [Github][github-peter] to view all my projects
-
-[asianux]: http://www.asianux.com
-[oss]:http://en.wikipedia.org/wiki/Open_source
-[plc]: http://en.wikipedia.org/wiki/Programmable_logic_controller
-[blug]: http://www.beijinglug.org/en/index.php
-[lenovo]: http://www.lenovo.com/us/en/#ss
-[elg]:http://www.beijinglug.org/en/index.php?option=com_groupjive&action=gj.core.groups.showgroup&groupid=22&Itemid=134
-[gitbeijing]: http://happypeter.github.com/GitBeijing/
-[quad]:http://www.beijinglug.org/en/index.php?option=com_groupjive&action=gj.core.groups.showgroup&groupid=8&Itemid=134
-[electricalengineering]:http://en.wikipedia.org/wiki/Electrical_engineering
-[automation]:http://en.wikipedia.org/wiki/Automation
-[mcs51]:http://en.wikipedia.org/wiki/Intel_MCS-51
-[8086]:http://en.wikipedia.org/wiki/Intel_8086
-[motor]:http://en.wikipedia.org/wiki/Electric_motor
-[axtu]:http://happypeter.github.com/axtu/
-[yum]:http://yum.baseurl.org/
-[Tinylion]:http://happypeter.github.com/tinylion
-[tata]:http://happypeter.github.com/tata/
-[language]:http://happypeter.github.com/work/languages.html
-[time]:http://happypeter.github.com/work/time.html
-[hen]:http://happypeter.github.com/hen/
-[Gitbro]:http://happypeter.github.com/gitbro
-[git-scm]:http://git-scm.com
-[github-peter]:http://github.com/happypeter
+好，先写这么多，瞎突突，目的就是让看到这些文字的人可以快速的决定喜欢我还是讨厌我，喜欢我的人，快点联系我啊，咱们交个朋友。
