@@ -1,3 +1,8 @@
+
+a {
+  text-decoration: none;
+}
+
 #navbar {
   padding-left: 5%;
 }
@@ -6,8 +11,8 @@
   margin: 0 auto 20px;
 }
 
-pre { 
-  margin-left: 3%; 
+pre {
+  margin-left: 3%;
 }
 
 #menu
