@@ -3,7 +3,7 @@ layout: default
 title: Peter's Corner
 ---
 
-Hi there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
+HI there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
 I am a screencastr at <http://happycasts.net>.
