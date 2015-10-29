@@ -65,8 +65,21 @@ a multimedia project. Then I joined <http://www.akaedu.org>.
 ### 2011
 
 Traveling, teaching all around the country, making a lot of friends. Started
-my <http://happycasts.net>
+my http://happycasts.net ( 后来改名叫：[haoduoshipin.com](http://haoduoshipin.com))
 
 ### 2012
 
-Doing my <http://happycasts.net>...
+在河北经贸大学租房，主要录制视频放在 [好多视频网](http://haoduoshipin.com) 上
+
+### 2013
+
+回北京住了一年，还是录每周技术视频
+
+### 2014
+
+搬到秦皇岛，在家录视频，做 Web 项目
+
+### 2015
+
+还在秦，录视频，开始《摩登前端开发者》培训课程。
+
