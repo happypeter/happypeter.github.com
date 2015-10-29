@@ -7,7 +7,7 @@ title: 再见 Rails
 
 ### 时代变了
 
-其实我公开叛逃 Rails ，不是在本文啦，2015年9月 [ruby-china.org 的一个帖子的回复里面](https://ruby-china.org/topics/27500) 里面，我就明确表过态了：
+其实我公开叛逃 Rails ，不是在本文啦，2015年9月 [ruby-china.org 的一个帖子的回复](https://ruby-china.org/topics/27500) 里面，我就明确表过态了：
 
 >从今年开始就再也没有碰过 Rails 了，感觉 Rails 已经老了，该退休了。十年前 REST http request/response 的模式看起来那么美，但是现在是实时应用的时代了
 
