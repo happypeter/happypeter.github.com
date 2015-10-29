@@ -5,20 +5,19 @@ title: Work
 
 ### Projects
 
-Go to [Github][github-peter] to view all my projects
+Github][github-peter]
 
 ### Books
 
-_[Linux Guide for Chinese Beginners][lgcb]_
+_[我写的书](http://book.haoduoshipin.com/)_
 
-### Screencasts
+### 技术视频
 
-[Happycasts.Net][hc]
+[好多视频网][hc]
 
 ### Timeline
 
 [What I Did All These Years](http://happypeter.github.com/work/time.html)
 
 [github-peter]:http://github.com/happypeter
-[lgcb]:http://happypeter.github.com/LGCB/
-[hc]:http://www.happycasts.net
+[hc]:http://www.haoduoshipin.com

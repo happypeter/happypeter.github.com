@@ -24,7 +24,7 @@ title: 再见 Rails
 
 看看 Github 上 rails 的  star 数目，几个月都不怎么动了。看看 nodejs 社区这些小老虎们  react meteor ... 。您可能会说人民群众都是跟风，好，再看看 Rails 社区大牛们的言论：
 
-- Github 的作者 Tom ： I don't like  Rails ，you can tell the world 。
+- Github 的作者 Tom （ Talk at Startup School 2012 ） ： [I don't like  Rails ，you can tell the world](https://youtu.be/mGTpU5XUAA8?t=188) 。
 
 - [ Why I wouldn’ t use rails for a new company](https://ruby-china.org/topics/27500)
 
