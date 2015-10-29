@@ -13,7 +13,7 @@ title: 再见 Rails
 
 >35楼 @lgn21st 对这个是完全赞同的，但是“实时性”的部分应该是内嵌到一个框架的最深处的，成为框架的默认。所以，过时的不仅仅是 Rails ，还有 Ajax/Pjax/turbolink 等这些所有基于非实时框架做成的实时 Hack 。
 
->世界变了，最大的一个特点是网速变了。十年前，当我们请求一个页面等个三五秒认为是正常的时代，Rails 默认的这种 Http 请求模式显然是没有问题的，因为最大的痛在于等待时间而非页面刷新。但是到了今天，web 应用应该是”无刷新为默认“的，也就是”类原生应用为默认“，道理很简单：网速上来了，用户体验要在平滑性上来拼了。Rails 从基本架构上不是为这个时代而生，所以改进也没有必要了，慢慢淡出娱乐圈才是正道。
+>世界变了...到了今天，web 应用应该是”无刷新为默认“的，也就是”类原生应用为默认“，道理很简单：网速上来了，用户体验要在平滑性上来拼了。Rails 从基本架构上不是为这个时代而生，所以改进也没有必要了，慢慢淡出娱乐圈才是正道。
 
 >说起”编程快乐“，这个依然是最重要的。但是用用 meteor 就会发现，Rails 输掉的同时是两个极端：易用性和强大性。
 
@@ -22,7 +22,7 @@ title: 再见 Rails
 
 框架没有了足够的社区就没有了足够的讨论，也就是说您有问题卡住了，也根本搜不到答案了。
 
-看看 Github 上 rails 的  star 数目，几个月都不怎么动了。在看看 nodejs 社区这些小老虎们  react meteor ... 。您可能会说人民群众都是跟风，好，再看看 Rails 社区大牛们的言论：
+看看 Github 上 rails 的  star 数目，几个月都不怎么动了。看看 nodejs 社区这些小老虎们  react meteor ... 。您可能会说人民群众都是跟风，好，再看看 Rails 社区大牛们的言论：
 
 - Github 的作者 Tom ： I don't like  Rails ，you can tell the world 。
 
@@ -30,7 +30,7 @@ title: 再见 Rails
 
 - [http://podcast.crater.io/](http://podcast.crater.io/) 作者 Josh Owens  十年 Rails 开发者，Peter 很早就是他的粉丝了，现在也是全职做 meteor 了。
 
-- [Jeffery Way](http://laracasts.com) 那天在 podcast 里提到，在美国圈子里一提起 Rails 很多人都是：恶心。但是 Jeffery 还是替 Rails 说话的：Rails changed everything! 但是八卦一下：他本人也是 Rails 经验丰富，但是目前全职搞 Laravel 的。
+- [Jeffery Way](http://laracasts.com) 那天在 podcast 里提到，在美国圈子里一提起 Rails 很多人都是：恶心。但是 Jeffery 还是替 Rails 说话的：Rails changed everything! 
 
 ### 拥抱新技术得大于失，很值
 
