@@ -28,7 +28,7 @@ I am a screencastr at <http://haoduoshipin.com>.
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
-happypeter1983@gmail.com
+欢迎所有朋友加我微信：happypeter1983
 </blockquote>
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
