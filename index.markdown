@@ -27,7 +27,7 @@ I am a screencastr at <http://haoduoshipin.com>.
 </ul>
 <p><br /><b>Contact Information:</b></p>
 
-<blockquote>
+<blockquote class="contact">
 欢迎所有朋友加我微信：happypeter1983
 </blockquote>
 
