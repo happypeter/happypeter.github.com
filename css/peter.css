@@ -60,7 +60,8 @@ ul.posts span {
   font-size: 80%;
 }
 
-blockquote.contact {
-  margin-left: 0;
-  margin-right: 0;
+@media (max-width: 480px) {
+  blockquote {
+    margin: 0;
+  }
 }
