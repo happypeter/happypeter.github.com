@@ -5,10 +5,14 @@ a {
 
 #navbar {
   padding-left: 5%;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 #wrapper {
   max-width: 800px;
   margin: 0 auto 20px;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 pre {
