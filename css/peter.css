@@ -17,6 +17,7 @@ a {
 
 pre {
   margin-left: 3%;
+  overflow: auto;
 }
 
 #menu
