@@ -3,7 +3,7 @@ layout: post
 title: Peter's Tricks to Become a Marathon Runner
 ---
 
-Note: This post was originally written in Chinese [here](2018-10-9-marathon.html). This is the English translation.
+Note: This post was originally written in Chinese [here](marathon.html). This is the English translation.
 
 People want to keep fit and lose weight, and running a marathon is one of the best ways to achieve this IMO. I want to tell everyone with my own story that running a marathon is fun, and it does not require a strong body to be a marathon runner, and maybe you are just one or two little tricks away from being one.
 
