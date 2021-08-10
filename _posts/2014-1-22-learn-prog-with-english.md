@@ -34,7 +34,7 @@ Linux
 
 happypeter.org
 倡导大学生从大一开始就试着用英语来学计算机方面的知识，因为这是一种学英语的好方法。同时，也是学编程的好方法，可以参看
-http://happypeter.github.com/on-english-and-prog.html
+http://happypeter.github.io/on-english-and-prog.html
 
 一些具体的建议：
 
